@@ -27,7 +27,7 @@ const Home = () => {
       <Navbar />
       <Hero />
       <SectionTitle
-        title=" Why should you use Solid">
+        title=" Why should you use SolidMeal App">
      SolidMeal is a mobile application that uses a K-nearest neighbours (KNN) algorithm to recommend recipes based on your health condition and dietary needs. When you sign up and input your health details, SolidMeal uses this information to suggest recipes that align with your specific dietary needs.
 
 
