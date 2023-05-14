@@ -35,23 +35,30 @@ const Faq = () => {
 
 const faqdata = [
   {
-    question: "Is this template completely free to use?",
-    answer: "Yes, this template is completely free to use.",
+    "question": "What is SolidMeal and how does it work?",
+    "answer": "SolidMeal is a mobile application that uses a K-nearest neighbours (KNN) algorithm to recommend recipes based on your health condition and dietary needs. When you sign up and input your health details, SolidMeal uses this information to suggest recipes that align with your specific dietary needs."
   },
   {
-    question: "Can I use it in a commercial project?",
-    answer: "Yes, this you can.",
+    "question": "Where does SolidMeal get its recipes?",
+    "answer": "SolidMeal's recipe database is compiled from various sources, including online recipe databases, nutritionists, and dieticians. We ensure each ingredient's nutritional content is accurate to provide reliable recommendations."
   },
   {
-    question: "What is your refund policy? ",
-    answer:
-      "If you're unhappy with your purchase for any reason, email us within 90 days and we'll refund you in full, no questions asked.",
+    "question": "Can I update my health profile on SolidMeal?",
+    "answer": "Yes, you can update your health profile at any time. This allows SolidMeal to adapt to your evolving health conditions and dietary needs."
   },
   {
-    question: "Do you offer technical support? ",
-    answer:
-      "No, we don't offer technical support for free downloads. Please purchase a support plan to get 6 months of support.",
+    "question": "How does SolidMeal rank the recommended recipes?",
+    "answer": "SolidMeal uses a ranking system that orders the recommended recipes based on their compatibility with your health profile. Factors considered in this ranking include the degree to which a recipe meets your dietary requirements, the simplicity of the recipe, and user feedback."
   },
+  {
+    "question": "Is SolidMeal free to use?",
+    "answer": "Yes, SolidMeal is completely free to use. Our goal is to help individuals with dietary restrictions due to illness find suitable, healthy recipes."
+  }
+,  
+  
+  
+  
+  
 ];
 
 export default Faq;
