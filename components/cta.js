@@ -15,7 +15,7 @@ const Cta = () => {
         </div>
         <div className="flex-shrink-0 w-full text-center lg:w-auto">
           <a
-            href="https://drive.google.com/file/d/1-FgI8AuEEWy6_BMb4mft2pkfyZa2Wc0T/view?usp=share_link"
+            href="https://drive.google.com/drive/folders/1oHC0Mi8r6juyn2U8f8XW2x2fvcY3mV4Y?usp=sharing"
             target="_blank"
             rel="noopener"
             className="inline-block py-3 mx-auto text-lg font-medium text-center text-indigo-600 bg-white rounded-md px-7 lg:px-10 lg:py-5 ">
